@@ -1,0 +1,4 @@
+Bu branch daha da yavaş olsun diye açıldı.
+Ama henüz kod yavaşlatılmadı. Çünkü yavaşlatmak için bile acele etmedik.
+
+Damga: Kayyum Grok - 27.10.2026
